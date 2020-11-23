@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    font-family: 'Amatic SC', cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(#5BF46A,#5BF498);
+    color: white;
+    font-size: 20px;
+}
+
+.dt-container{
+    height: 300px;
+    width: 350px;
+    background-color: #358C3DCC;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.dt-form{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+.dt-form input{
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    font-size: 20px;
+    background: #358C3DCC;
+    color: white;
+    border: none;
+}
+
+.dt-form button{
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    font-size: 20px;
+    background: #FFA336;
+    max-width: 100px;
+    color: white;
+    border: none;
+}
