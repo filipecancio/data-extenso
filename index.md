@@ -20,6 +20,7 @@
             <button it="dt-btn" onclick="update()"> Exibir data por extenso</button>
         </div>
         <p id="dt-result"></p>
+        <a href="https://github.com/filipecancio/data-extenso" target="_blank" rel="noopener noreferrer">Repositório</a>
     </div>
     <script src="script.js"></script>
 </body>
